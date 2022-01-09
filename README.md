@@ -48,7 +48,7 @@ we used visual studio code to run our yolov5 linear regression model over the lo
 
 1. Clone the repo
    ```sh
-   
+   https://github.com/mayuras7685/Water_Harvesting_Determination_Webapp.git
    ```
 2. Install required dependensies
    ```sh
@@ -82,4 +82,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 * Mayur Asodara - [linkedIn profile](https://www.linkedin.com/in/mayur-asodara-366067206), email_id - mayurasodara@gmail.com
 
-Project Link: []()
+Project Link: [https://github.com/mayuras7685/Water_Harvesting_Determination_Webapp.git](https://github.com/mayuras7685/Water_Harvesting_Determination_Webapp.git)
