@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+# Base ----------------------------------------
+streamlit
+joblib
+os
+numpy
